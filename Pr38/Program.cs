@@ -26,17 +26,3 @@ for (int i = 0; i < arr.Length; i++)
 }
 Console.WriteLine($"Макс {max}, Мин {min}");
 Console.WriteLine($"Разница {max - min}");
-
-
-
-
-
-
-
-
-
-// double sum = 0;
-
-// for (int i = 0; i < arr.Length; i+=2)
-//     sum = sum + arr[i];
-// Console.WriteLine($"всего {arr.Length} чисел, сумма = {sum}");
